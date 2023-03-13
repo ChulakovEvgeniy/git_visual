@@ -34,7 +34,7 @@
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
 Например:
 
-![Мандалорец](https://studioprovans.ru/wp-content/uploads/0/5/5/0555778fc9ba6a36c5bc2687aca43ecb.jpeg)
+![Мандалорец](https://i.pinimg.com/originals/61/37/fc/6137fcfb25d4a3738be82895d67ffc0b.png)
 
 
 ## Ссылки 
