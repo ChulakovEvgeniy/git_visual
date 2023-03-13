@@ -28,13 +28,13 @@
 
 Например:
 
-![Пляж](https://get.pxhere.com/photo/beach-sea-coast-sand-ocean-shore-wave-vacation-lagoon-bay-island-nikon-body-of-water-caribbean-tropics-cape-d300-polinesia-fakarava-413763.jpg)
+![Пляж](https://kartinkin.net/uploads/posts/2022-02/1646058962_79-kartinkin-net-p-nadpis-marvel-kartinki-85.png)
 
 
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
 Например:
 
-![Мандалорец](CAM_0008.JPG)
+![Мандалорец](https://studioprovans.ru/wp-content/uploads/0/5/5/0555778fc9ba6a36c5bc2687aca43ecb.jpeg)
 
 
 ## Ссылки 
