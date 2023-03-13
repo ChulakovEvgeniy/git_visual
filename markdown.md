@@ -28,13 +28,13 @@
 
 Например:
 
-![Пляж](https://get.pxhere.com/photo/beach-sea-coast-sand-ocean-shore-wave-vacation-lagoon-bay-island-nikon-body-of-water-caribbean-tropics-cape-d300-polinesia-fakarava-413763.jpg)
+![Пляж](https://www.film.ru/sites/default/files/filefield_paths/daenerys-targaryen-winterfell-season-8.jpg)
 
 
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
 Например:
 
-![Мандалорец](CAM_0008.JPG)
+![Мандалорец](https://i.pinimg.com/originals/61/37/fc/6137fcfb25d4a3738be82895d67ffc0b.png)
 
 
 ## Ссылки 
